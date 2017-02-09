@@ -1,1 +1,1 @@
-# handbook
+# Ruby for Good Handbook
